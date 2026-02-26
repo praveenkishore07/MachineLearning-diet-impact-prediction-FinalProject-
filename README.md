@@ -1,5 +1,5 @@
-# MachineLearning-diet-impact-prediction-FinalProject-
-## Child Growth Prediction: Natural vs. Supplement Diet Analysis
+
+# Child Growth Prediction: Natural vs. Supplement Diet Analysis
 Supervised Machine Learning | Regression Analysis | Nutritional Science
 
 # ➤ Project Overview :
